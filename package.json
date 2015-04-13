@@ -1,0 +1,29 @@
+{
+  "name": "WatchClosely",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^5.0.4",
+    "browserify": "^9.0.3",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-bg": "0.0.5",
+    "gulp-notify": "^2.2.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.6.2"
+  },
+  "dependencies": {
+    "babel": "^4.7.16",
+    "body-parser": "^1.12.2",
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "memory-stats": "^1.0.2",
+    "morgan": "^1.5.2"
+  }
+}
